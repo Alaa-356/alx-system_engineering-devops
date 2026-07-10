@@ -1,0 +1,17 @@
+total 60
+-rw-r--r-- 1 aemm aemm   12 Jul 10 15:19  \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+drwxr-xr-x 2 aemm aemm 4096 Jul 10 15:24 .
+drwxr-xr-x 5 aemm aemm 4096 Jul 10 14:32 ..
+-rwxr--r-- 1 aemm aemm   32 Jul  6 16:29 0-hello_world
+-rwxr--r-- 1 aemm aemm   28 Jul  6 16:37 1-confused_smiley
+-rwxr--r-- 1 aemm aemm   28 Jul  6 18:35 2-hellofile
+-rwxr--r-- 1 aemm aemm   39 Jul 10 14:23 3-twofiles
+-rwxr--r-- 1 aemm aemm   29 Jul 10 14:26 4-lastlines
+-rwxr--r-- 1 aemm aemm   29 Jul 10 14:28 5-firstlines
+-rwxr--r-- 1 aemm aemm   41 Jul 10 14:35 6-third_line
+-rwxr--r-- 1 aemm aemm   77 Jul 10 15:21 7-file
+-rwxr--r-- 1 aemm aemm   38 Jul 10 15:24 8-cwd_state
+-rw-r--r-- 1 aemm aemm   42 Jul  5 18:09 README.md
+-rw-r--r-- 1 aemm aemm   12 Jul 10 15:20 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 aemm aemm  972 Jul 10 14:33 iacta
+-rw-r--r-- 1 aemm aemm    0 Jul 10 15:24 ls_cwd_content
