@@ -1,2 +1,2 @@
 #!/bin/bash
-awk '{print}' /etc/passwd /etc/hosts
+cat /etc/passwd /etc/hosts
